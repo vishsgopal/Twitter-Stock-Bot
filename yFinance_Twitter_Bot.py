@@ -117,11 +117,11 @@ plt.show()
 
 import tweepy
 
-consumer_key = "Xxk2rDFdDwnhjHPWVhrHwAhyu"  # tokens have been reset
-consumer_secret = "IMwv3Zvysj1kzOJNPbhqxjTY5GUBDWvXPzlCoHXViNXcGhsuF0"
+consumer_key = "#####"  # tokens have been reset
+consumer_secret = "#####"
 
-access_token = "1380644457188622339-Xa4QAoaTdF8yULipTvyw4CAKG44q3V"
-access_token_secret = "TqKhB4FvdT85flWU2otVw0eQtcWOLxoLHfHhlxyKhRkZQ"
+access_token = "#####"
+access_token_secret = "#####"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
